@@ -1,0 +1,15 @@
+.hide {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
+.btn {
+    margin: 2%;
+}
+
+.row {
+    justify-content: center!important;
+}
